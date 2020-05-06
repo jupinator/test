@@ -65,6 +65,7 @@ It usually has its own file: [CONTRIBUTING.md](https://gist.github.com/PurpleBoo
 ## Authors
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Erika Suárez Valencia** - *Initial work* - [erikasv](https://github.com/erikasv)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -77,19 +78,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
-       ,.
-       \ '.
-        >   ).--.
-         >  ( o ,=====-
-       <`'---.   `.
-        /,    )    )
-         /^/^'    /
-             ) \v/))  
-             /. \'    
-           ( ( ) )
-            . /
-           / /
-          : '
-           /
-         .' `.
